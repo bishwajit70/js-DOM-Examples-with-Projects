@@ -1,0 +1,15 @@
+body{
+      margin: 0;
+      padding:0;
+      box-sizing: border-box;
+}
+.main-part{
+      width: 1200px;
+}
+.banner{
+      background-image: url(elegant-woman.jpg);
+      height: 100vh;
+      background-position: center;
+      background-size: cover;
+      margin: 0 auto;
+}
